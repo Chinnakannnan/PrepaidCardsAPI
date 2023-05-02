@@ -1,0 +1,2 @@
+3/8/2023 11:52:13 AM:
+Send OTP to Register Customer - Response From Transcorp  :{"result":{"success":true,"entityId":"nxtign4203976"},"exception":null,"pagination":null}

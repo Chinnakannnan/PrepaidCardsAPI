@@ -1,0 +1,10 @@
+3/20/2023 1:08:35 PM:
+Customer Preferences External - Request  :{"entityId":"nxtign9994185541","status":"ALLOWED","type":"ECOM"}
+3/20/2023 1:08:35 PM:
+Customer Preferences External - Plain Request to Transcorp Encrypted data  :{"entityId":"nxtign9994185541","status":"ALLOWED","type":"ECOM"}
+3/20/2023 1:08:35 PM:
+Customer Preferences External - Request to Transcorp Request Encrypted Data  :{"body":"rLf++Ck1hbAhqrjYN9zbJ6xtx8ekdETqWOYoLS7mPc1Eq+fu6b8BI6Yb\/tWXSo3k\/QTCt2R3ElZcMcIAlldeqLw2x9EMd4pvlQQcB2LzSyk=","entity":"g4GSCSy3v3GtXKuKXrOacco3eBKbrAFArsNLpMBxBQD3sGs2MXi8f2J3mHlaVmv1GEOaUlb+jGas4CnJ1Hf7PkGW3I\/6bJVng2W31THZSV1EEGVaFAwSGAx2R6uwTd+fRSCWvLU761P9HUX4hHrW9gBRzHic3iBzu9daSm1GaFYe51hbymd4lye4ShQuDab22SVOEDcVyPJ7MhuShSg1+qMbjctY9MCvkDzNbnQ+GRZm8Hnkhefnk0h4CuVyz\/bqnb4hW+0nPFUeHbvjqXMDNqzW0bdEggsfT1kHqEiDbWmaojH36MCbu+orUS86Vv3hyAOtdRdnXbvd8CYMblhaEQ==","key":"a2wZZzS4ziCwCxosjn\/roWgHbQ2LTASlghQEN\/QjqVL0a\/6pWUrfB6mvBPVrbC0z19KGA0d\/5GGeQGk2as3K1sGneANPJXllDjVjoX1679KuDBVW\/Sy\/Xh+EuuWLn\/xyX0Kp7IuWFXfZydxS3etVlTpT0SF7k\/fQs2aiJrOo9PE6bcXB6QemkFSpBljQVFUU6mPOR8UxJePBp9IE+PIWim7NfJhT8re7Y6QMJywLmFzYuG1kEvbmJHN3mtovieGeOlu70fyd\/FoZfbRx\/Vqhj2KfNkP6AF0k6HhjoPoCNvJ9k84gHlxSlqMjcu5VMt\/B1CPGLaaHCYrgdPvHwx7Stg==","refNo":"7913764218357987","token":"v2WPYSQKXXkiwwHLewvvsDX+glnn1FZ0SLp\/wYBUaWVwFoa0wh1GuCOO+io0RSSPpPwAtQVZkHKM4NuYoBxLW8rYDebgnbrd9Fy+caGnU81oMLIshe6jUxc5Tmj5Pz+RzGsof6SHWy0EGoog8GUKdcUR7UmmwepdAXClqSZF2YU="}
+3/20/2023 1:08:35 PM:
+Customer Preferences External - Response From Transcorp  :{"result":true,"exception":null,"pagination":null}
+3/20/2023 1:08:35 PM:
+Customer Preferences External - Response  :{"result":"true","Exception":null,"Pagination":null}

@@ -1,0 +1,4 @@
+3/20/2023 12:51:21 PM:
+Customer Wallet - Fetch Balance Request -  :nxtign9994185541
+3/20/2023 12:51:21 PM:
+Customer Wallet - Fetch Balance response -  :{"result":[{"entityId":"nxtign9994185541","productId":"GENERAL","balance":"1588.0","lienBalance":"0.0"}],"exception":null,"pagination":null}

@@ -1,0 +1,15 @@
+3/12/2023 5:51:35 PM:
+Customer Wallet - Fetch Balance Request -  :nxtign9994185541
+3/12/2023 5:51:36 PM:
+Customer Wallet - Fetch Balance response -  :<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>503 Service Temporarily Unavailable</title>
+</head><body>
+<h1>Service Temporarily Unavailable</h1>
+<p>The server is temporarily unable to service your
+request due to maintenance downtime or capacity
+problems. Please try again later.</p>
+</body></html>
+
+3/12/2023 5:51:44 PM:
+Customer Wallet - Fetch Balance Request -  :nxtign9994185541

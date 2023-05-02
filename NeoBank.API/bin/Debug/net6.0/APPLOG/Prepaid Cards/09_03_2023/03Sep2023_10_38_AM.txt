@@ -1,0 +1,2 @@
+3/9/2023 10:38:46 AM:
+Send OTP to Register Customer - Response From Transcorp  :{"timestamp":"2023-03-09T10:35:17.213+0000","status":500,"error":"Internal Server Error","message":"No message available","path":"/kyc/customer/generate/otp"}

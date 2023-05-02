@@ -1,0 +1,12 @@
+3/8/2023 11:14:11 AM:
+Send OTP to Register Customer - Response From Transcorp Error :System.Security.Cryptography.CryptographicException: Specified initialization vector (IV) does not match the block size for this algorithm.
+   at System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] value)
+   at System.Security.Cryptography.AesManaged.set_IV(Byte[] value)
+   at BusinessModel.Common.M2BEncrypt.encryptData(String requestData, Byte[] sessionKey, String messageRefNo) in D:\projects\PrepaidCards\PrepaidCards\BusinessModel\Common\M2BEncrypt.cs:line 150
+   at BusinessModel.Common.M2BEncrypt.encodeRequest(String requestData, String messageRefNo, String entity) in D:\projects\PrepaidCards\PrepaidCards\BusinessModel\Common\M2BEncrypt.cs:line 58
+   at APIService.PrepaidCardProvider.SendMobileOTPByEncry(PrepaidSendOTPRequest prepaidSendOTP) in D:\projects\PrepaidCards\PrepaidCards\APIService\PrepaidCardProvider.cs:line 96
+3/8/2023 11:14:11 AM:
+Send OTP to Register ActivateCardOTP - Request  :System.Security.Cryptography.CryptographicException: Specified initialization vector (IV) does not match the block size for this algorithm.
+   at APIService.PrepaidCardProvider.SendMobileOTPByEncry(PrepaidSendOTPRequest prepaidSendOTP) in D:\projects\PrepaidCards\PrepaidCards\APIService\PrepaidCardProvider.cs:line 123
+   at BusinessDomain.Prepaid.PrepaidBusiness.SendMobOTP(PrepaidSendOTPRequest prepaidSendOTP) in D:\projects\PrepaidCards\PrepaidCards\BusinessDomain\Prepaid\PrepaidBusiness.cs:line 31
+   at NeoBank.API.Controllers.PrepaidController.ActivateCardOTP(PrepaidSendOTPRequest prepaidSendOTP) in D:\projects\PrepaidCards\PrepaidCards\NeoBank.API\Controllers\PrepaidController.cs:line 52

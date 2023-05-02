@@ -1,0 +1,2 @@
+3/10/2023 11:20:09 AM:
+Customer Wallet - Request from client app  :{"fromEntityId":"nxtign9994185541","amount":100.00,"productId":"GENERAL","yapcode":"1234","business":"TCNXTIGN","businessEntityId":"TCNXTIGN","description":"testing","transactionOrigin":"MOBILE","transactionType":"M2C","toEntityId":"nxtign9994185541","externalTransactionId":"ACCU070041598457"}

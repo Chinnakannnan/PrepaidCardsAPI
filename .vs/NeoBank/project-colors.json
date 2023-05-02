@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b01b479-6291-427f-bade-3f33bd271578": {
+      "ProjectGuid": "8b01b479-6291-427f-bade-3f33bd271578",
+      "DisplayName": "NeoBank.API",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8f96f4be-1f6b-4a3b-8aa4-db8fbd63d5e4": {
+      "ProjectGuid": "8f96f4be-1f6b-4a3b-8aa4-db8fbd63d5e4",
+      "DisplayName": "NeoBank.API.Test",
+      "ColorIndex": 1
+    },
+    "80088e87-3fd8-4fe1-aee2-3390e8db9c6c": {
+      "ProjectGuid": "80088e87-3fd8-4fe1-aee2-3390e8db9c6c",
+      "DisplayName": "BusinessDomain",
+      "ColorIndex": 2
+    },
+    "b169fc01-8ec1-4b43-9ee7-602f4de634ec": {
+      "ProjectGuid": "b169fc01-8ec1-4b43-9ee7-602f4de634ec",
+      "DisplayName": "BusinessModel",
+      "ColorIndex": 3
+    },
+    "144684c4-e95a-4181-b04f-59971f4e5055": {
+      "ProjectGuid": "144684c4-e95a-4181-b04f-59971f4e5055",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 4
+    },
+    "3a05d2b3-652d-4d6b-a4ac-bd324c2bec90": {
+      "ProjectGuid": "3a05d2b3-652d-4d6b-a4ac-bd324c2bec90",
+      "DisplayName": "APIService",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

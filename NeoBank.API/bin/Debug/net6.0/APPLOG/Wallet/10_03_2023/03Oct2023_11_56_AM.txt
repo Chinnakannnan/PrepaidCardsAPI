@@ -1,0 +1,2 @@
+3/10/2023 11:56:07 AM:
+Customer Wallet - Response From Transcorp  :{"result":null,"exception":{"detailMessage":"Data Exception","cause":null,"shortMessage":"Data Exception","languageCode":"en","errorCode":"Y104","fieldErrors":["Transaction Can be Done only from Terminal"],"message":null,"localizedMessage":null,"suppressed":[]},"pagination":null}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FGnCY8u9tHRgkvgwU94G2zHZsXNtQok3Q3ZGK0wUQ54=",
+  "Source": "NeoBank.API",
+  "BasePath": "_content/NeoBank.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

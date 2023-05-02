@@ -1,0 +1,4 @@
+3/21/2023 8:56:47 AM:
+Customer Wallet - Fetch Balance Request -  :nxtign9943535355
+3/21/2023 8:56:51 AM:
+Customer Wallet - Fetch Balance response -  :{"result":[],"exception":null,"pagination":null}

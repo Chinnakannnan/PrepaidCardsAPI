@@ -1,0 +1,2 @@
+3/9/2023 8:02:56 AM:
+Register Customer - Response From Transcorp  :{"result":null,"exception":{"detailMessage":"Customer Name is Empty","cause":null,"shortMessage":"Customer Name is Empty","languageCode":"en","errorCode":"K154","fieldErrors":null,"message":null,"localizedMessage":null,"suppressed":[]},"pagination":null}

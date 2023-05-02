@@ -1,0 +1,6 @@
+22-02-2023 23:13:10:
+Customer on boarding - Request from fronrend app  :{"KitReferenceNumber":"100000001280","entityId":null,"CustomerId":"CCCC01001","mobileNumber":null,"OTP":"947171"}
+22-02-2023 23:13:13:
+Customer on boarding - Response  :DB Data
+22-02-2023 23:13:13:
+Customer on boarding - Request extraction  :{"EntityId":null,"Otp":"947171","ChannelName":"MIN_KYC","EntityType":"CUSTOMER","BusinessType":"TCNXTIGN","BusinessId":null,"Title":null,"FirstName":null,"MiddleName":null,"LastName":null,"Gender":null,"IsNRICustomer":false,"IsMinor":false,"IsDependant":false,"MaritalStatus":"SINGLE","CountryCode":"91","EmploymentIndustry":"INFORMATION_TECHNOLOGY","EmploymentType":"EMPLOYED","PlasticCode":"TYPE1","kitInfo":[{"CardType":null,"KitNo":null,"CardCategory":null,"CardRegStatus":null,"AliasName":" ","FourthLine":"10001"}],"addressInfo":[{"AddressCategory":"PERMANENT","Address1":null,"Address2":null,"Address3":null,"City":null,"State":null,"Country":null,"PinCode":null},{"AddressCategory":"COMMUNICATION","Address1":null,"Address2":null,"Address3":null,"City":null,"State":null,"Country":null,"PinCode":null}],"communicationInfo":[{"ContactNo":"+91","Notification":true,"EmailId":""}],"kycInfo":[{"DocumentType":"PAN","DocumentNo":null,"DocumentExpiry":"2099-03-01"}],"dateInfo":[{"DateType":"DOB","Date":"1994-02-05"}]}

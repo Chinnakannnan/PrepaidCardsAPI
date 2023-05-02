@@ -1,0 +1,12 @@
+3/9/2023 8:11:35 AM:
+Send OTP to Register ActivateCardOTP - Request  :{"KitReferenceNumber":"100000001201","entityId":null,"CustomerId":"CCCC01001","mobileNumber":null,"OTP":null}
+3/9/2023 8:11:39 AM:
+Send OTP to Register Customer - Request from client app  :{"KitReferenceNumber":"100000001201","entityId":null,"CustomerId":"CCCC01001","mobileNumber":"7904203976","OTP":null}
+3/9/2023 8:11:51 AM:
+Send OTP to Register Customer - Request to Transcorp plain data  :{"entityId":"nxtign7904203976","mobileNumber":"+917904203976"}
+3/9/2023 8:11:53 AM:
+Send OTP to Register Customer - Request to Transcorp Request Encrypted Data  :{"body":"Bga3eSY6VfZoaie1Bqg4U3X\/p4\/FJbsWMPnnJfYyEwmRt6daOO+t41xIb102AXc0lO9jEqV2u589gd0vce13eA==","entity":"TLGn5asKc6HwXk4cmEnmU+\/VOkW8xnSV\/98ehioXwd0QOJd0pXZ3VFgSaRalY4Bvb8gspFcUIa1vhmZxPHEy0FUtuvaG752Yuq7wW\/iXO380ZimcO7LXX59ZEDe+37xCoevCEOExiD+bSyZ2V85VdaPJPsfzsN3qx8LlDCjoFhUqgqcgFdWYWGQEap8NH8H2fQKWhcuvTcXPCfIyULRl5KxzFQ0AwIAiP2omKDrgifU1sJa7OcHLMiKUeO6d7Xt7FizomDH9v5etgVgsSkD93LS6liG3sTvuoOJ6ZdmrCOYt2XMz82rJzWCBiP7zhm+Ia7GxZjnsxWXk2JZGQugHDw==","key":"NMzxkTXrGYhiSRjLqOWqOBPAs5SoyKqTbyM1nFy0fBN4xkuwmXhorVZS9gjYThxyQeepTepp3CfTzSUeH4qi3h7XT8vp6ifxu6ziAWSLc8NXRVijyIbDmxA78jWMhQ8v5Q3J2LhgUcO3GDgPLNn61d3fuvj\/jJZTVbE0PMIBOiDTUdswvmmYAPUz\/7smMw1iQBvGY4y5UOQOf8zxXW2C4KnW5R0YckmJ1rH21KKyxemtsB3WDdRt2afSXrBS6H20lmR+jwu5l63YeTri3UvCc64BRwM6iQKPPKsv5VqStp19MElxHCEw7wlMy9sMEIeDJ6GvV3qQIBuyVg\/Umg47pw==","refNo":"6808360930524406","token":"wdNjOXI0ARGRVsKdouXxZ6qgH1SqjW+QOeHAgFKCv76R7OXQHnxFS3WZoZOHDzXt1lsovQJRc3SHv\/Xk2jiLg4R3\/zEYBcE0rPG8gFK+HXZ\/IoWeJidamKCGYwNuDSjYM7q8DC4DyLBGs6+ald1098+Fpd8nga0by2urdaFQzGg="}
+3/9/2023 8:11:57 AM:
+Send OTP to Register Customer - Response From Transcorp  :{"result":{"success":true,"entityId":"nxtign7904203976"},"exception":null,"pagination":null}
+3/9/2023 8:12:00 AM:
+Send OTP to Register Customer - Response  :BusinessModel.Prepaid.PrepaidResponse

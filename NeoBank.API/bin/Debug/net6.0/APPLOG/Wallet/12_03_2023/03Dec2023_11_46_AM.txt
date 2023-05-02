@@ -1,0 +1,2 @@
+3/12/2023 11:46:33 AM:
+Customer Wallet - Response From Transcorp  :{"result":null,"exception":{"detailMessage":"Invalid date of birth","cause":null,"shortMessage":"Invalid date of birth","languageCode":"en","errorCode":"Y3206","fieldErrors":["Field Error: 'dob'"],"message":null,"localizedMessage":null,"suppressed":[]},"pagination":null}

@@ -1,0 +1,13 @@
+3/20/2023 10:41:25 AM:
+Fetch Transactions - Plain Request to Transcorp Encrypted data  :"nxtign9994185541?fromDate=2023-03-01&toDate=2023-03-20&pageNumber =0&pageSize=5"
+3/20/2023 10:41:28 AM:
+Fetch Transactions - Response From Transcorp  :<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>503 Service Temporarily Unavailable</title>
+</head><body>
+<h1>Service Temporarily Unavailable</h1>
+<p>The server is temporarily unable to service your
+request due to maintenance downtime or capacity
+problems. Please try again later.</p>
+</body></html>
+

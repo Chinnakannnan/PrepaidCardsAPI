@@ -1,0 +1,4 @@
+3/15/2023 1:50:34 PM:
+Wallet BlockCard - Request From Transcorp  :
+3/15/2023 1:51:16 PM:
+Wallet BlockCard -  error :Error converting value "success" to type 'BusinessModel.Wallet.BlockCardResult'. Path 'result', line 1, position 19.

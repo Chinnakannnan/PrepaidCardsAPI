@@ -1,0 +1,6 @@
+3/8/2023 11:50:42 AM:
+Send OTP to Register ActivateCardOTP - Request  :{"KitReferenceNumber":"100000001201","entityId":null,"CustomerId":"CCCC01001","mobileNumber":null,"OTP":null}
+3/8/2023 11:50:51 AM:
+Send OTP to Register Customer - Request from client app  :{"KitReferenceNumber":"100000001201","entityId":null,"CustomerId":"CCCC01001","mobileNumber":"7904203976","OTP":null}
+3/8/2023 11:50:54 AM:
+Send OTP to Register Customer - Request to Transcorp plain data  :{"entityId":"nxtign4203976","mobileNumber":"+917904203976"}

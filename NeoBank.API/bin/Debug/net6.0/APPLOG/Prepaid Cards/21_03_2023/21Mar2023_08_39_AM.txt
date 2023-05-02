@@ -1,0 +1,14 @@
+3/21/2023 8:39:09 AM:
+Send OTP to Register ActivateCardOTP - Request  :{"KitReferenceNumber":"100000001224","entityId":null,"CustomerId":"CCCC001003","mobileNumber":null,"OTP":null}
+3/21/2023 8:39:13 AM:
+Send OTP to Register Customer - Request from client app  :{"KitReferenceNumber":"100000001224","entityId":null,"CustomerId":"CCCC001003","mobileNumber":"9943535355","OTP":null}
+3/21/2023 8:39:13 AM:
+Send OTP to Register Customer - Request to Transcorp plain data  :{"entityId":"nxtign9943535355","mobileNumber":"+919943535355"}
+3/21/2023 8:39:13 AM:
+Send OTP to Register Customer - Request to Transcorp Request Encrypted Data  :{"body":"6EtKeoJK\/ZJW5GS5G6V6zbI8TujL5KCnxL1PfuJpwd7yzvIxgOn98dSpYlRbqbx5KjmXfDO3KD22g+IKAFjvfA==","entity":"XgqyUL\/aglAalkOfILUBd3dq+IJBKype80nok\/YWwwmFbkA37zu0zsvohzUK6oCSD6hxZlZxBQ589hdqwN0QEJZF1c0Cni9JA8epFKtggo0i\/YSWt8KXrqdedTKN1+4UreDFz09G+C6HKSUNn4u3snMHiZpYANh3wFObcpNdbdPhrneWjTTh2IqYdjjybNSN7okEOC7UFyrW8Aa\/I7RhuHRBD8+GyHcU9x+xKjB87kfFx65ES3\/68EoUByho\/gJ3ZZIo+DAEinZbNwJkT3qYB6tkNFGP5kfqta7uKjVVk5egbSlHea0apEynSXB861rImCn6f1PnZqHurh8f3gXVIg==","key":"IHMc5+t4vmfiMx1OYMoMwER23S+1J8hQjhvSas9kXqhu0ChLwuwRTvCpTMRyHfn7mFqPwuMaszwHW3OYHcl6g8fqUqwlD4Rge+4ykRtkDcSzNpIOTvsYDenw3woYpn69t07IooXjPgZXG9o8XAyJtERVYYeIe0gMrhEU6cdf5jlDgLtNbhl9HquUXMr7LhZlCmE721\/QvIE45Atr25X+ySwCdc5uHKviKSHTQh28+UQqRBRqjy64XyejEA4djT\/ZDDxUn9V7kORxfRd8Ps3sP8sn+ysv7DqtUA0QDuj0MjL\/VDAbRFu7T9t6OmD\/MPEAXbHdMTmRGDQjUQI5hkhA1g==","refNo":"8008098566135746","token":"GGeRPiHCU\/g21HEZ5yzm2qpzNdOh5hxjG118ougZvvvg+hS010i+xi5RgHDykGI7\/gv4fsw5SAl4UQ9kMJxN7VxnYAHC6Fy4GZiKW3eRnKAGJUga3lB2+d80buzU8VafZ6wzQ1lbfyR6KJ0nuhz4GJFUz4b+Wh1qN0xW9QQ1AoI="}
+3/21/2023 8:39:14 AM:
+Send OTP to Register Customer - Response From Transcorp  :{"result":{"success":true,"entityId":"nxtign9943535355"},"exception":null,"pagination":null}
+3/21/2023 8:39:14 AM:
+Send OTP to Register Customer - Response  :BusinessModel.Prepaid.PrepaidResponse
+3/21/2023 8:39:59 AM:
+Send OTP to Register ActivateCardOTP - Request  :{"KitReferenceNumber":"100000001224","entityId":null,"CustomerId":"CCCC001003","mobileNumber":null,"OTP":null}

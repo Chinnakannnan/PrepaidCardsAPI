@@ -1,0 +1,12 @@
+22-02-2023 18:14:01:
+Send OTP to Register Customer - Request  :{"KitReferenceNumber":"100000001201","entityId":null,"CustomerId":"CCCC01001","mobileNumber":"9840506405","OTP":null}
+22-02-2023 18:14:02:
+Send OTP to Register Customer - Request to Transcorp  :System.Net.Http.StringContent
+22-02-2023 18:14:03:
+Send OTP to Register Customer - Response From Transcorp  :{"result":{"success":true,"entityId":"nxtign0506405"},"exception":null,"pagination":null}
+22-02-2023 18:14:48:
+Customer on boarding - Request from fronrend app  :{"KitReferenceNumber":"100000001201","entityId":null,"CustomerId":"CCCC01001","mobileNumber":null,"OTP":"315549"}
+22-02-2023 18:14:50:
+Customer on boarding - Response  :DB Data
+22-02-2023 18:14:52:
+Customer on boarding - Request extraction  :{"EntityId":"nxtign0506405","Otp":"315549","ChannelName":"MIN_KYC","EntityType":"CUSTOMER","BusinessType":"TCNXTIGN","BusinessId":"9840506405","Title":"Ms","FirstName":"cynthia","MiddleName":"Dev","LastName":"Cyn","Gender":"MALE","IsNRICustomer":false,"IsMinor":false,"IsDependant":false,"MaritalStatus":"SINGLE","CountryCode":"91","EmploymentIndustry":"INFORMATION_TECHNOLOGY","EmploymentType":"EMPLOYED","PlasticCode":"TYPE1","kitInfo":[{"CardType":"VIRTUAL","KitNo":"100000001201","CardCategory":"PREPAID","CardRegStatus":"ACTIVE","AliasName":"cynthia Cyn","FourthLine":"10001"}],"addressInfo":[{"AddressCategory":"PERMANENT","Address1":"F2 AMPA FLATS","Address2":"NSK ROAD 2ND STREET","Address3":null,"City":"CHENNAI","State":"TAMILNADU","Country":"INDIA","PinCode":"600028"},{"AddressCategory":"COMMUNICATION","Address1":"F2 AMPA FLATS","Address2":"NSK ROAD 2ND STREET","Address3":null,"City":"CHENNAI","State":"TAMILNADU","Country":"INDIA","PinCode":"600028"}],"communicationInfo":[{"ContactNo":"+919840506405","Notification":true,"EmailId":"cynthia@accupaydtech.com"}],"kycInfo":[{"DocumentType":"PAN","DocumentNo":"AZNPV8564G","DocumentExpiry":"2099-03-01"}],"dateInfo":[{"DateType":"DOB","Date":"1994-02-05"}]}

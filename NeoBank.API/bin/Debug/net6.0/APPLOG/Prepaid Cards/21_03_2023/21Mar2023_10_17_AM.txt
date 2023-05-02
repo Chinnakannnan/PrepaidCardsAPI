@@ -1,0 +1,4 @@
+3/21/2023 10:18:02 AM:
+Send OTP to Register ActivateCardOTP - Request  :{"KitReferenceNumber":"100000001225","entityId":null,"CustomerId":"CCCC001004","mobileNumber":null,"OTP":null}
+3/21/2023 10:18:09 AM:
+Send OTP to Register Customer - Response  :BusinessModel.Prepaid.PrepaidResponse

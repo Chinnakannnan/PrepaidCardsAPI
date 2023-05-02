@@ -1,0 +1,10 @@
+4/25/2023 4:26:03 PM:
+mail error: 1System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'C:\Dev\PrepaidCards\PrepaidCards\PrepaidCards\NeoBank.API\https:\prepaid.accupayd.com\template\ComplaintTemplate.html'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at NeoBank.API.Utilities.MailServices.ComplaintMail(String CustomerId, String ToAddress, String MailSubject, String MailBody, String fromAddr, String smtpAddr, String smtpPort, String mailSecret, String lstrImageURL) in C:\Dev\PrepaidCards\PrepaidCards\PrepaidCards\BusinessModel\Common\MailServices.cs:line 132

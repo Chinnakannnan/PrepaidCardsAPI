@@ -1,0 +1,10 @@
+22-02-2023 23:11:16:
+Send OTP to Register ActivateCardOTP - Request  :{"KitReferenceNumber":"7904203976","entityId":null,"CustomerId":"CCCC01001","mobileNumber":"7904203976","OTP":null}
+22-02-2023 23:11:18:
+Send OTP to Register Customer - Request  :{"KitReferenceNumber":"7904203976","entityId":null,"CustomerId":"CCCC01001","mobileNumber":"7904203976","OTP":null}
+22-02-2023 23:11:21:
+Send OTP to Register Customer - Request to Transcorp  :System.Net.Http.StringContent
+22-02-2023 23:11:22:
+Send OTP to Register Customer - Response From Transcorp  :{"result":{"success":true,"entityId":"nxtign4203976"},"exception":null,"pagination":null}
+22-02-2023 23:11:22:
+Send OTP to Register Customer - Response  :{"result":{"Success":"true","EntityId":"nxtign4203976"},"Exception":null,"Pagination":null}

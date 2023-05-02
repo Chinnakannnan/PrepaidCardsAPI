@@ -1,0 +1,2 @@
+3/9/2023 8:04:38 AM:
+Send OTP to Register Customer - Response  :{"result":null,"Exception":{"DetailMessage":"Customer Name is Empty","Cause":null,"ShortMessage":"Customer Name is Empty","LanguageCode":"en","ErrorCode":"K154","FieldErrors":null},"Pagination":null}
