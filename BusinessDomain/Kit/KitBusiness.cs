@@ -3,6 +3,7 @@ using BusinessModel.Kit;
 using DataAccess.Kit;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,6 +22,13 @@ namespace BusinessDomain.Kit
         {
             return _kitRepository.CreateKitDetails(kitModel);
         }
+        public StatusResponseModel AddBulkKitDetails(Object dataset)
+        {
+            return _kitRepository.AddBulkKitDetails(dataset);
+        }
+
+
+       
         public StatusResponseModel UpdateKitDetails(KitModel kitModel)
         {
             return _kitRepository.UpdateKitDetails(kitModel);

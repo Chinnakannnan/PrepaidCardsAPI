@@ -1,11 +1,13 @@
 ﻿using BusinessModel.Common;
 using BusinessModel.Kit;
 using Dapper;
+using DocumentFormat.OpenXml.Spreadsheet;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DataAccess.Kit
 {
@@ -13,6 +15,36 @@ namespace DataAccess.Kit
     {
         public KitDA(IDatabaseConfig databaseConfig) : base(databaseConfig)
         {
+
+        }
+        
+        public StatusResponseModel AddBulkKitDetails(Object dataSet)
+        {
+            StatusResponseModel objres = new StatusResponseModel();
+            try
+            {
+                IList<KitModel> data = JsonConvert.DeserializeObject<IList<KitModel>>(dataSet.ToString());
+                foreach (var item in data)
+                {
+                    var dParam = new DynamicParameters();
+                    dParam.Add("@KitId", 0);
+                    dParam.Add("@KitReferenceNumber", item.KitReferenceNumber);
+                    dParam.Add("@CardNo", item.CardNo);
+                    dParam.Add("@CardExpiryDate", item.CardExpiryDate);
+                    dParam.Add("@CardType", item.CardType);
+                    dParam.Add("@CompanyCode", item.CompanyCode);
+                    dParam.Add("@CompanyAdminCode", item.CompanyAdminCode); ;
+                    dParam.Add("@IsActive", item.IsActive);
+                    var result = QuerySP<StatusResponseModel>("sp_KitAddEdit", dParam).FirstOrDefault();                  
+                    objres.statuscode = result.statuscode;
+                    objres.statusdesc = result.statusdesc;
+                }               
+                return objres;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
 
         }
         public StatusResponseModel CreateKitDetails(KitModel kitModel)
@@ -36,7 +68,7 @@ namespace DataAccess.Kit
             {
                 throw ex;
             }
-         ;
+         
         }
 
         public StatusResponseModel UpdateKitDetails(KitModel kitModel)
